@@ -1,3 +1,6 @@
 All the value of Node->left has to be smaller/less-than Node->value
 
 All the value of Node->right has to be grater than Node->val;
+
+All values of left sub-tree < node->val;
+All values of right sub-tree > node->val;
